@@ -1,9 +1,5 @@
 # Sudoku Game
 
-## Link
-
-https://tubular-dragon-e23626.netlify.app/
-
 ## Overview
 
 A web-based Sudoku game built with HTML, CSS, and JavaScript. Players solve a 9×9 Sudoku puzzle by selecting numbers and placing them into empty cells while the application validates each move against the puzzle solution.
